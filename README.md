@@ -19,6 +19,8 @@ Programming Language: Java
 Paradigm: Object-Oriented Programming (OOP)
 Graphics Library: Java Swing/AWT
 How to Use
+
+
 **Select a Tool:**
 
 Use the pencil for freehand drawing.
@@ -30,7 +32,6 @@ Switch Modes:
 
 Choose between Solid Mode and Dotted Mode depending on your drawing preference.
 Perform Actions:
-
 Undo/Redo: Use the undo and redo buttons to correct your drawing.
 Clear: Clear the entire canvas.
 Save: Save your artwork as an image file.
